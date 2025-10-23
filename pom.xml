@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>viihcerq.com.github</groupId>
 	<artifactId>roomBooker</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>roomBooker</name>
 	<description>Room Booker</description>
 	<url/>
